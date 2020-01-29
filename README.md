@@ -8,4 +8,4 @@ Link:https://fontawesome.com
 
 This tested on Safari browser and should look like this:
 
-![](AppleDay/img/xampl.png)
+![](/AppleDay/img/xampl.png)
