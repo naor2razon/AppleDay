@@ -8,4 +8,4 @@ Link:https://fontawesome.com
 
 This tested on Safari browser and should look like this:
 
-![](/AppleDay/img/xampl.png)
+![alt text](https://raw.githubusercontent.com/naor2razon/AppleDay/master/img/xampl.png)
